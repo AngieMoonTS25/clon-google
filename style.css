@@ -35,7 +35,7 @@
  }
 
  .nav-right-section .menu-icon{
-   background-image: url("https://discord.com/channels/1077657414440079380/1155980413693599814/1161509385479139469");
+   background-image: url("https://img.icons8.com/ios-glyphs/90/000000/circled-menu.png");
    background-size: contain;
    width: 20px; 
    height: 30px;
@@ -177,4 +177,5 @@ footer ul{
 
 footer ul li a {
    color: #70757a;
+   margin: 10px;
 }
